@@ -1,0 +1,2 @@
+!#/bin/bashs
+sudo sstpc --tls-ext --log-level 5 --log-stderr --cert-warn --user kali --password kali nilov.keeneic.link noauth
